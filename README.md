@@ -12,3 +12,42 @@ Full Stack MERN Engineer | Distributed Systems Builder | Real-Time Architecture 
 - 🔄 Engineered Workflow Automation Platform enforcing strict sequential state transitions, backend integrity validation, AI workflow intelligence & real-time synchronization via Socket.IO
 - 🎓 Developed **College Placement Management System** with role-based dashboards & structured eligibility pipelines
 - 🔐 Strong focus on backend integrity, scalability, deterministic logic & system design
+
+---
+
+## 🛠 Technical Skills
+
+### 💻 Languages
+- C  
+- Java  
+- JavaScript  
+- SQL  
+
+### ⚙️ Backend Engineering
+- Node.js  
+- Express.js  
+- REST APIs  
+- Middleware Design  
+- JWT Authentication  
+
+### 🔄 Real-Time & Distributed Systems
+- Socket.IO  
+- Redis  
+- BullMQ  
+- Event-Driven Architecture  
+
+### 🌐 Frontend Development
+- React.js  
+- Material UI  
+- Tailwind CSS  
+- Axios  
+
+### 🗄 Databases
+- MongoDB  
+- MySQL  
+- Redis  
+
+### 🛠 Tools
+- Git  
+- GitHub  
+- Postman  
