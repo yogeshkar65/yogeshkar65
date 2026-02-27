@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yogesh</h1>
+<h1 align="center">Hi 👋, I'm Yogeshkar P</h1>
 <h3 align="center">
 Full Stack MERN Engineer | Distributed Systems Builder | Real-Time Architecture Enthusiast
 </h3>
