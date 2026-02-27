@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yogesh</h1>
+<h3 align="center">
+Full Stack MERN Engineer | Distributed Systems Builder | Real-Time Architecture Enthusiast
+</h3>
 
-<!--
-**yogeshkar65/yogeshkar65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Engineering Profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏗️ Architected and deployed enterprise-grade backend systems using MERN stack with layered service architecture
+- ⚙️ Built **CascadeX** — Distributed cascading failure simulation engine with Redis & BullMQ orchestration
+- 🔄 Engineered Workflow Automation Platform enforcing strict sequential state transitions, backend integrity validation, AI workflow intelligence & real-time synchronization via Socket.IO
+- 🎓 Developed **College Placement Management System** with role-based dashboards & structured eligibility pipelines
+- 🔐 Strong focus on backend integrity, scalability, deterministic logic & system design
