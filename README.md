@@ -17,40 +17,17 @@ Full Stack MERN Engineer | Distributed Systems Builder | Real-Time Architecture 
 
 ## 🛠 Technical Skills
 
-### 💻 Languages
-- C  
-- Java  
-- JavaScript  
-- SQL  
+**Languages:** C • Java • JavaScript • SQL  
 
-### ⚙️ Backend Engineering
-- Node.js  
-- Express.js  
-- REST APIs  
-- Middleware Design  
-- JWT Authentication  
+**Backend:** Node.js • Express.js • REST APIs • Middleware Design  
 
-### 🔄 Real-Time & Distributed Systems
-- Socket.IO  
-- Redis  
-- BullMQ  
-- Event-Driven Architecture  
+**Real-Time & Distributed Systems:** Socket.IO • Redis • BullMQ • Event-Driven Architecture  
 
-### 🌐 Frontend Development
-- React.js  
-- Material UI  
-- Tailwind CSS  
-- Axios  
+**Frontend:** React.js • Material UI • Tailwind CSS • Axios  
 
-### 🗄 Databases
-- MongoDB  
-- MySQL  
-- Redis  
+**Databases:** MongoDB • MySQL • Redis  
 
-### 🛠 Tools
-- Git  
-- GitHub  
-- Postman
+**Tools:** Git • GitHub • Postman  
 
 ---
 
